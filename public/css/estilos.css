@@ -1,0 +1,22 @@
+.a1
+{
+    background-color:rgb(247, 247, 247);
+    border-style:hidden;
+    text-align:center;
+    align-self: auto;
+    border-radius: 10px;
+    max-width: 60%;
+}
+.container
+{
+    padding: 10px;
+    margin-top: 25px;
+    align-self: auto;
+    border-radius: 10px;
+    border-style: groove;
+}
+.card-img-top
+{
+    width: 260px;
+    height: 260px;
+}
