@@ -6,6 +6,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## Importante
+Abrir XAMPP y correr el servidor Mysql y APACHE 
+Ejecutar las migraciones y los seeders para las bases de datos en VScode o en una terminal cualquiera dentro del proyecto luego ejecutar el comando php artisan serve y abrir el navegador 
+y poner la ruta localhost:8000/ y enter.
 
 ## About Laravel
 
